@@ -43,6 +43,7 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 
 
 
+
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="200" />
 
 <img scr="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="200" />
@@ -64,6 +65,8 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 <img scr="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="200" />
 
 <img scr="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="200" />
+
+
 
 
 ### Pitch video [update the video after recording your presentation ]
