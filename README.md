@@ -24,6 +24,8 @@ Storytelling emplaces the subject matter in a context and takes the audience on 
 
 ### Wireframing and graphic design element variation [assigment 06 + part of 07]
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FHandmade-Wireframe-Kit-(Community)%3Fnode-id%3D181%253A0" allowfullscreen></iframe>
+
 ### Low-fidelity prototype (wireflow, assignment 06)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment 08)
