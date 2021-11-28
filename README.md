@@ -16,8 +16,12 @@ In this stage, this project intends to make navigation, finding, and tracking th
 
 In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
+>**Two examples from the heurisic evaluations**
+>![image](https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png)
+>![image](https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png)
 
-### User research [contestual inquirt, assigment 04]
+
+### User research 
 After the heuristic evaluations and testing of the website, it was time to see how users engage with the website and interact with different pages. Like the Usability Testing phase, users will be occupied with a particular activity such as browsing and filling forms to accomplish a task and gratify one’s need. Unlike Usability Testing, we are going to document users’ activity in the context. We are trying to observe users not merely as an entity that is not detached from the design; instead, the product is intentionally designed for them. [LINK](https://github.com/ziiiaz/Week3/blob/main/Learning%20from%20people%20in%20context.md)
 
 ### UX storytelling [persona+scenario, assignment 07]
