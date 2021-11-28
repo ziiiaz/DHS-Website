@@ -1,11 +1,16 @@
-# Department of Homeland Security Website
+# DH110 
+# Filing A Complaint and Tracking it: Department of Homeland Security Website
 ## Zia Khoshsirat
 
 ### Introduction
-This project examines the filing complaint task on the Department of Homeland Security [website](https://www.dhs.gov/) and tries to resolve the issue of tracking the complaint status.  
+
+The coral intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [complaint]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [status](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues addressed during the different stages of the project through (re-)modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
+
 
 ### Clear design statement: 
-Based on the interviews and feedbacks, we realized that some users are not able to find the status page quickly. 
+
+In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedback analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaints and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in its tracking section. 
+
 
 ### Competitor analysis [assignment 1 and 2]
 In the [heuristic evaluation](https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security), we found minor cosmetic and functional issues. However, we did not notice the issue that we have focused in this project.
