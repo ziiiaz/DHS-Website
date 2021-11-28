@@ -12,8 +12,9 @@ The coral intention of this project is to bring users' experience with the Depar
 In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedback analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaints and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in its tracking section. 
 
 
-### Competitor analysis [assignment 1 and 2]
-In the [heuristic evaluation](https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security), we found minor cosmetic and functional issues. However, we did not notice the issue that we have focused in this project.
+### Competitor Analysis
+
+In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
 
 ### User research [contestual inquirt, assigment 04]
