@@ -43,7 +43,7 @@
 
 ### WIREFRAMING AND GRAPHIC DESIGN ELEMENT VARIATION
 
-> <img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="700" />
+> <img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="500" />
 
 
 ### LOW-FIDELITY PROTOTYPE
@@ -52,7 +52,8 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FHandmade-Wireframe-Kit-(Community)%3Fnode-id%3D181%253A0" allowfullscreen></iframe>
 
-### High-fidelity prototype (functional/interactive prototype, assignment 08)
+
+### HIGH-FIDELITY PROTOTYPE
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
@@ -68,25 +69,25 @@
 
 <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="200" />
 
-<img scr="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="200" />
 
 
 
