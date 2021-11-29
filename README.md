@@ -17,8 +17,12 @@
 >In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
 >**Two examples from the heurisic evaluations**
->![image](https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png)
->![image](https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png)
+>
+> <img src="https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png" width="500" />
+
+> <img src="https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png" width="500" />
+
+
 
 
 ### USER RESEARCH 
@@ -28,18 +32,23 @@
 
 ### UX STORYTELLING
 
->Storytelling emplaces the subject matter in a context and takes the audience on a journey through the researcher’s eyes and the subject’s action. Storytelling promotes subjects from mere users to persons with a life that affects their decision-making, rise and fall of feelings, and how they interact with an issue. Storytelling re-contextualizes the user and the product in their real-time entanglement. Based on the project’s core intention, two personas were created to test the website from the position of users and through their perspectives. One personifies a user with a specific disability, and the other typifies a person with less technical knowledge. For more information, please click [**here**]( https://github.com/ziiiaz/Week-4/blob/main/README.md)
-
-![image](https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png)
-
-![Screenshot (291) copy](https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg)
+>Storytelling emplaces the subject matter in a context and takes the audience on a journey through the researcher’s eyes and the subject’s action. Storytelling promotes subjects from mere users to persons with a life that affects their decision-making, rise and fall of feelings, and how they interact with an issue. Storytelling re-contextualizes the user and the product in their real-time entanglement. Based on the project’s core intention, two personas were created to test the website from the position of users and through their perspectives. One personifies a user with a specific disability, and the other typifies a person with less technical knowledge. For more information, please click [**here**]( https://github.com/ziiiaz/Week-4/blob/main/README.md).
 
 
-### Wireframing and graphic design element variation [assigment 06 + part of 07]
+>Personas
+>
+> <img src="https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png" width="700" />
+> <img src="https://user-images.githubusercontent.com/46515738/142480700-c330a511-659a-4cb6-9774-6935755a1f79.jpg" width="700" />
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FHandmade-Wireframe-Kit-(Community)%3Fnode-id%3D181%253A0" allowfullscreen></iframe>
 
-### Low-fidelity prototype (wireflow, assignment 06)
+### WIREFRAMING AND GRAPHIC DESIGN ELEMENT VARIATION
+
+> <img src="https://user-images.githubusercontent.com/46515738/143793805-8260608d-3b93-485a-8678-9b8e5313431c.png" width="700" />
+
+
+### LOW-FIDELITY PROTOTYPE
+
+>Based on the previous stages, two personas, and the analysis from the second interview, the low-fidelity prototype intends to remove the obstacle of checking the status based on the participant’s struggle with finding the status page. Thirty frames were designed to represent a specific number of tasks. Compared with the original website, several minor modifications were made in the prototype; among all, the complaint status check page was significantly changed. For more information, please click [**here**](https://github.com/ziiiaz/Low-Fid/blob/main/README.md).
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVWYmqkQK1Newmb7TqJP4n1%2FHandmade-Wireframe-Kit-(Community)%3Fnode-id%3D181%253A0" allowfullscreen></iframe>
 
