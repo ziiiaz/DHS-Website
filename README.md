@@ -57,6 +57,13 @@
 
 >The low-fidelity prototype helped the project to understand what should be done in the next stage: the transformation of the wireframes to high-fidelity ones. In this stage, the high-fidelity frames were created with Figma. I also used Adobe Photoshop to modify buttons (for example, the search button). Twenty-one frames were designed to fulfill specific tasks and specifically to complete complaints status tracking. After several minor and major revisions, the final design was successfully passed the user tests. It should be mentioned that two modes, dark and light, were considered for this design. However, all the final modifications were applied to the light mode. For more information, please click [**here**](https://github.com/ziiiaz/Interface/blob/main/README.md).
 
+<img src="https://user-images.githubusercontent.com/46515738/143798012-0e3c6a65-01c1-4606-903f-7315f80a8acd.png" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="500" />
+<img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="500" />
+
+
+
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Optional evaluation and revision history 
