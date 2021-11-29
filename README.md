@@ -2,30 +2,33 @@
 # Filing A Complaint and Tracking it: Department of Homeland Security Website
 ## Zia Khoshsirat
 
-### Introduction
+### INTRODUCTION
 
-The coral intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [complaint]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [status](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues addressed during the different stages of the project through (re-)modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
-
-
-### Clear design statement: 
-
-In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedback analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaints and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in its tracking section. 
+>The core intention of this project is to bring users' experience with the Department of Homeland Security website in finding the relevant formation about the travel [complaint]( https://www.dhs.gov/file-travel-complaint-dhs-trip) and specifically be able to easily track their complaint [status](https://trip.dhs.gov/TRIP/Home/CaseStatus). While the original website tried to keep the structure minimalistic and straightforward, it was not straightforward for some users with less technical knowledge to access the desired information. By deploying the users' experience with the website, this project provides alternative designs to facilitate users' efficient engagement with various elements of complaining and tracking pages. Thus, in this project, the design focuses on the issues addressed during the different stages of the project through (re-)modifying elements like changing shapes, fonts, alignments, and even re-designing a whole page. These stages will be discussed in the following sections. 
 
 
-### Competitor Analysis
+### CLEAR DESIGN STATEMENT: 
 
-In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
+>In this stage, this project intends to make navigation, finding, and tracking the complaint's status more accessible for users who might find the original design confusing. According to the feedback analyzed in this project, since the DHS is a vast section of the government, users might feel filing complaints and tracking it futile. This affective perspective would influence users’ engagement with the website, which is already confusing in its tracking section. 
+
+
+### COMPETITOR ANALYSIS
+
+>In the heuristic evaluations stage, two websites, DHS ( [Department of Homeland Security]( https://www.dhs.gov/) ) and CBP ( [U.S. Custom and Border Protection](https://www.cbp.gov/) ) were tested to grasp a general idea about the structure of federal websites and scrutinize them for the later stages of this project. During the evaluation, issues like the contrast in Visibility of System Status and alignment in Aesthetic and Minimalist Design were noticed. However, the main issue (see Introduction) on which this project is focused was observed later. For more information about the heuristic evaluations, please click [**here**]( https://github.com/ziiiaz/DH110---Week-1/blob/main/Week1.md#first-department-of-homeland-security).
 
 >**Two examples from the heurisic evaluations**
 >![image](https://user-images.githubusercontent.com/46515738/143791017-8989220f-8f90-44b9-bff8-eba3faabdaac.png)
 >![image](https://user-images.githubusercontent.com/46515738/143791094-3164f722-837d-452d-97fb-af3686efae4e.png)
 
 
-### User research 
-After the heuristic evaluations and testing of the website, it was time to see how users engage with the website and interact with different pages. Like the Usability Testing phase, users will be occupied with a particular activity such as browsing and filling forms to accomplish a task and gratify one’s need. Unlike Usability Testing, we are going to document users’ activity in the context. We are trying to observe users not merely as an entity that is not detached from the design; instead, the product is intentionally designed for them. [LINK](https://github.com/ziiiaz/Week3/blob/main/Learning%20from%20people%20in%20context.md)
+### USER RESEARCH 
 
-### UX storytelling [persona+scenario, assignment 07]
-Storytelling emplaces the subject matter in a context and takes the audience on a journey through the researcher’s eyes and the subject’s action. In my opinion, storytelling promotes subjects from mere users to persons with a life that affects their decision-making, rise and fall of feelings, and how they interact with an issue. Storytelling re-contextualizes the user and the product in their real-time entanglement.
+>In this stage, the goal was to concentrate on the users’ interactions with a few website pages and observe the interactions in context. Being immersed in the users’ lives and seeing the subject matter in context is recommended by UX designers and researchers (IDEO.org 2015: 51), which gives more in-depth knowledge about users’ lives, how they do not do certain activities, and why they do not. As mentioned earlier, this project focuses on the DHS travel complaint tracking page. Since TSA officers have a history of racially profiling individuals at the airport, a participant with a similar experience with TSA was interviewed for the contextual inquiry. During the interview, I wanted to document if the user can easily file a complaint against TSA profiling during the screening procedure and, in case of hesitancy, what does cause it and why. If hesitancy is the result, how we can find resolve it with an innovative design. While the participants quickly found the File a Travel Complaint (DHS TRIP) page, she did not proceed to complete the task that she was asked due to what she expressed the DHS unwillingness to pay attention to complaints. It was a crucial moment for the project, as  I found out how understanding the sociocultural aspect of a matter is important in a user experience design project. For more information about the contextual inquiry stage, please click [**here**]( https://github.com/ziiiaz/Week3/blob/main/Learning%20from%20people%20in%20context.md).
+
+
+### UX STORYTELLING
+
+>Storytelling emplaces the subject matter in a context and takes the audience on a journey through the researcher’s eyes and the subject’s action. Storytelling promotes subjects from mere users to persons with a life that affects their decision-making, rise and fall of feelings, and how they interact with an issue. Storytelling re-contextualizes the user and the product in their real-time entanglement. Based on the project’s core intention, two personas were created to test the website from the position of users and through their perspectives. One personifies a user with a specific disability, and the other typifies a person with less technical knowledge. For more information, please click [**here**]( https://github.com/ziiiaz/Week-4/blob/main/README.md)
 
 ![image](https://user-images.githubusercontent.com/46515738/142480461-d64eb4ef-8599-4b54-b54d-5543989ae61f.png)
 
