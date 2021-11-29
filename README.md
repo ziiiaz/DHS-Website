@@ -113,6 +113,7 @@
 
 
 
-### Pitch video [update the video after recording your presentation ]
+### PITCH VIDEO: 
 
-### Conclusions: what you learned througout the process
+### CONCLUSIONS:
+
