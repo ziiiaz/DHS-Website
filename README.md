@@ -57,46 +57,48 @@
 
 >The low-fidelity prototype helped the project to understand what should be done in the next stage: the transformation of the wireframes to high-fidelity ones. In this stage, the high-fidelity frames were created with Figma. I also used Adobe Photoshop to modify buttons (for example, the search button). Twenty-one frames were designed to fulfill specific tasks and specifically to complete complaints status tracking. After several minor and major revisions, the final design was successfully passed the user tests. It should be mentioned that two modes, dark and light, were considered for this design. However, all the final modifications were applied to the light mode. For more information, please click [**here**](https://github.com/ziiiaz/Interface/blob/main/README.md).
 
-<img src="https://user-images.githubusercontent.com/46515738/143798012-0e3c6a65-01c1-4606-903f-7315f80a8acd.png" width="500" />
-<img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="500" />
-<img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="500" />
-
+> <img src="https://user-images.githubusercontent.com/46515738/143798012-0e3c6a65-01c1-4606-903f-7315f80a8acd.png" width="500" />
+> <img src="https://user-images.githubusercontent.com/46515738/143798344-c33badd0-1b28-49f2-99ea-fa0c0fa7b10b.png" width="500" />
+> <img src="https://user-images.githubusercontent.com/46515738/143798465-131dc070-a049-4391-a7d5-fd5de0dafc78.png" width="500" />
 
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-### Optional evaluation and revision history 
+### OPTIONAL EVALUATION AND REVISION HISTORY
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEJZ52gsjHjgZnSMh4kaA5j%2FDH110---Interface-Design-(Copy)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+>During the impression test of the third high-fidelity design, the user wanted to go back to the home page. The design considered the logo (top of the page) as a default way of doing this task. However, the user found out that the home button at the foot bar is better for going back to the home page. Since the design did not consider an action for that button, the user was confused about how to reach the home page. This issue was resolved in the final design. 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjcqGTyY0NyV2aat82ItyAK%2FDH110---Interface-Design---DARK-(REVISED)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+> the final revised interactive prototype:
+> 
+> <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhpYyAsJApPIIr7E9eqyihC%2FDH110---Hi-fid---N-Flow-Lines%3Fnode-id%3D2%253A2%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 
+> Several typographic, alignment, contrast, shape changes were applied to the final revision. These changes helped the design to have a professional look and aesthetically appealing to the user. Some of these changes can be seen here: 
+>
+>
+> <img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="200" />
 
+> <img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="200" />
 
+> <img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483931-06f3b21f-5fc8-4e4c-a470-912d6d894341.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483933-cfbfad03-5a0a-4fe0-8bc3-9828120d03c1.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483939-25e7b3a8-5070-4a4a-b5cb-3f06cf0e1ec4.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483942-1e75e9aa-f0a1-44ba-9c08-6a6712b0b9ae.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483952-de8d8225-263c-443c-b75f-6970b3fba885.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483956-66a98142-aad2-4f3b-bca6-7f95a225cd80.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483959-1b6d0c6a-dbde-4216-8c8a-56a56dee7e55.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483960-cd7f63db-3265-476b-bec3-1c6c2d1741b2.jpg" width="200" />
+> <img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="200" />
 
-<img src="https://user-images.githubusercontent.com/46515738/142483961-7c3df913-3072-40ef-a001-7336e4f7a18d.jpg" width="200" />
-
-<img src="https://user-images.githubusercontent.com/46515738/142483963-541127cf-79bc-4e4f-ae3f-cc9110e24eea.jpg" width="200" />
-
-<img src="https://user-images.githubusercontent.com/46515738/142483965-d5a21829-21f7-4491-b7c3-55dc38e4fbfc.jpg" width="200" />
 
 
 
