@@ -115,5 +115,10 @@
 
 ### PITCH VIDEO: 
 
+> Please click [**here**].
+
 ### CONCLUSIONS:
 
+>I have been researching for seven years in different fields. It is expected to conduct an ethnography and/or fieldwork in Anthropology, which necessitates learning about methods such as interviewing, observing, participating, and situating yourself in the research. 
+Through the process of doing this project, I have always considered my positionality and experience in research. For example, heuristic evaluations remind me that preliminary fieldwork and contextual inquiry resemble literature reviews and semi-structured interviews. Nevertheless, UX design and research introduced a perspective which Vargas (2006) calls observant participation. That is, the researcher is attached to what is researched and participates in the activities. During the project, I was part of the design process and participated in it retrospectively by engaging with the participants' activities. 
+Regarding the positionality of the researcher and designer, the possible bias toward the design is always open to being under scrutiny with the users/participants and, ultimately, the design team. This is a crucial step in completing a design project since each portion of the process is tested before proceeding. 
